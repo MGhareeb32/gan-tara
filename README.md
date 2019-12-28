@@ -1,4 +1,4 @@
-ML experimentation with Arabic poetry.
+Dataset for ML experimentation with Arabic poetry.
 
 ## Dataset
 This dataset was scraped from https://www.aldiwan.net/ on 2019/12/22.
